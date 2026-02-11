@@ -1,4 +1,4 @@
-# statistical-learning-
+# Statistical-learning-
 This repository documents my self-study in statistical learning theory and its mathematical foundations.
 
 
