@@ -10,7 +10,7 @@ This repository documents my self-study in statistical learning theory and its m
 
 
 
-
+# Key points to be noted 
 
 
 
